@@ -10,7 +10,7 @@
 @implementation KKTempView
 
 + (void)log {
-    NSLog("测试Pod");
+    NSLog(@"测试Pod");
 }
 
 @end
