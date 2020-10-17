@@ -13,6 +13,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (void)log;
 
++ (void)XLog;
+
 @end
 
 NS_ASSUME_NONNULL_END

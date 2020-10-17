@@ -13,4 +13,8 @@
     NSLog(@"测试Pod");
 }
 
++ (void)XLog {
+    NSLog(@"Tag验证");
+}
+
 @end
